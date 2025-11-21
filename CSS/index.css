@@ -1,0 +1,93 @@
+.logo {
+    margin-top: 10px;
+    float: left;
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+.topHead {
+    background-color: rgb(215, 225, 215);
+    height: 100px;
+    width: 100%;
+}
+
+.RegisterButton {
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+}
+
+.LoginButton {
+    border-radius: 20%;
+    background-color: rgb(215, 225, 215);
+}
+
+.ContactLink {
+    color: black;
+}
+
+nav {
+    margin-top: 0.7%;
+    margin-right: 2%;
+    font-size: larger;
+}
+
+.MainLogo {
+    text-align: center;
+}
+
+.Mainlogo,
+h1 {
+    margin-top: 3%;
+    font-size: 600%;
+    font-family: cursive;
+}
+
+.MainLogo h3 {
+    margin-top: -3%;
+    font-size: 200%;
+    font-family: cursive;
+}
+
+.MainButtons {
+    text-align: center;
+}
+
+.LendButton,
+.RentButton {
+    font-size: 150%;
+    border-radius: 40%;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(215, 225, 215);
+
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.foot {
+    background-color: black;
+    height: 100px;
+    margin-top: 10%;
+}
+
+.Browse {
+    margin-top: 1%;
+    text-align: center;
+}
+
+.BrowseButton {
+    color: white;
+    background-color: black;
+
+    font-size: 160%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    padding: 1% 10% 1% 10%;
+}
